@@ -91,6 +91,8 @@ public class FileNamer {
 			}
 		
 			song.delete(); //delete original file
+			//yes
+			
 
 		}
 		
